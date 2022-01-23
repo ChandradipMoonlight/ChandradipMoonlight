@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chandradip Shivankar 
 - 👀 I’m interested in learning new technology.
-- 🌱 I’m currently learning grails and groovy.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working on Java Spring boot.
 - 📫 How to reach me mail ID - chandradipshivankar@gmail.com
 
 <!---
