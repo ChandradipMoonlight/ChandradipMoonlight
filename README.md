@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandradip Shivankar 
 - 👀 I’m interested in learning new technology.
-- 🌱 I’m currently working on Java Spring boot.
+- 🌱 I’m currently working on Java Spring boot as Software Engineer.
 - 📫 How to reach me mail ID - chandradipshivankar@gmail.com
 
 <!---
